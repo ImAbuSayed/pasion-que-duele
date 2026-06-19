@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Pasión que duele
+
+This log tracks the cryptographic history and versioning for the song **Pasión que duele** (pasion-que-duele).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-19T17:03:25.416186 | `v1` | `7e4b8756c78eb55f981bc9ce22203acfe7a06f2979d262d0152fec125614b8fe` | `bddcc71c041eaa2327feee0ea0d56803406a4bed8b4e3aa758b6ddcf47ff8b4e` | `2026-06-19_pasion-que-duele-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-que-duele/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Pasión que duele](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-que-duele/) |
+| **Get License** | [Request Licensing for Pasión que duele](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-que-duele/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7e4b8756c78eb55f981bc9ce22203acfe7a06f2979d262d0152fec125614b8fe` |
 | **Timestamp** | June 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
