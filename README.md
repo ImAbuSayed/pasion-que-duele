@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-que-duele/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Pasión que duele](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-que-duele/) |
+| **Get License** | [Secure Licensing Rights for Pasión que duele](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-que-duele/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, tú y yo en el club, el tiempo se nos va
+> Esa mirada tuya dice que no hay vuelta atrás
+> Es una pasión que duele, pero siempre quiero más
+> Esta noche por Madrid, tú eres mi debilidad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
